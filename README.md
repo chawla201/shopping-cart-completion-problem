@@ -24,7 +24,7 @@ contains only a subset (around 70% to 80%) of the SKUs from the order. The remai
 are withheld as the items that the customer have forgotten to order.
 
 ## Evaluation Criteria
-On submission of the recommendation submissions will be evaluated with the actual test set (withheld) using recall@5 metrics. recall metrics will be measured using: 
+On submission of the recommendation submissions will be evaluated with the actual test set (withheld) using recall@5 metrics. recall metrics will be measured using: \
 $$\frac{1}{N}\sum_{i=1}^{N}\frac{\text{Number of forgotten items identified by the model}}{\text{Number of items forgotten by the customer in order}}$$
 
 
