@@ -1,5 +1,8 @@
 # did-you-forget
 
+## Project Objective
+The objective of this unsupervised machine learning project was to gain a comprehensive understanding of how recommendation engines work. The focus was on applying various recommendation engine algorithms and techniques to the shopping cart dataset, enabling an in-depth exploration and learning of recommendation systems.
+
 ## Overview
 In the highly competitive online grocery delivery market, ensuring a seamless and customer-centric shopping experience is crucial. A common issue faced by customers is forgetting to purchase essential items. To address this, your task is to design and implement a "Did You Forget?" system that assists users by suggesting items they may have forgotten to add to their cart before checking out. \
 (kaggle competition link: https://www.kaggle.com/competitions/did-you-forget-b-25/overview)
@@ -7,7 +10,7 @@ In the highly competitive online grocery delivery market, ensuring a seamless an
 ## Problem Statement
 Develop a machine learning-based recommendation system that identifies and suggests items likely forgotten by customers based on their shopping behavior, past purchases, and current cart contents.
 
-## Objective
+## Task Objective
 * Build a recommendation system to predict the remaining items from the last order that the customer might have forgotten to order based on customer's previous order.
 * The recommendation system should make recommendations: one that contains a set of 5 SKUs as recommendation.
 * Generate the recommendations for all the orders available in last_orders_subset.csv
