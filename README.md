@@ -1,4 +1,4 @@
-# did-you-forget
+# shopping-cart-completion-problem
 
 ## Project Objective
 The objective of this unsupervised machine learning project was to gain a comprehensive understanding of how recommendation engines work. The focus was on applying various recommendation engine algorithms and techniques to the shopping cart dataset, enabling an in-depth exploration and learning of recommendation systems.
